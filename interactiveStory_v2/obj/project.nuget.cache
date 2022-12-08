@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6oTkXzqGvbyrXHyAtjayvqyVEQSMojFY2eysYxbjCkKdZN0Xx3u+8aBNSK1L1aLvG+LagQpX/Vb0vbi3mSOqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thomas.karlsson3\\Documents\\programmering\\interactiveStory_v2\\interactiveStory_v2\\interactiveStory_v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thomas.karlsson3\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\thomas.karlsson3\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
